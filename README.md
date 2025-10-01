@@ -1,7 +1,7 @@
 # 🚀 Zluri Product Management Case Study: Employee App Catalog
 
 > **A complete case study report reimagining enterprise SaaS discovery and access.**  
-> By **Ajay Tomar**
+> By **Gopak Rawat**
 
 ---
 

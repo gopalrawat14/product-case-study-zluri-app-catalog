@@ -1,7 +1,7 @@
 # 🚀 Zluri Product Management Case Study: Employee App Catalog
 
 > **A complete case study report reimagining enterprise SaaS discovery and access.**  
-> By **Gopak Rawat**
+> By **Gopal Rawat**
 
 ---
 
@@ -52,13 +52,6 @@ The report is structured into five major sections:
 - 🛠️ **Enterprise Ready**: Features like SLA visibility, approver transparency, and license tracking.  
 - 📊 **Impact-Oriented**: Clear KPIs to measure success and tie design decisions to business outcomes.  
 - ✨ **Professional Report**: Clean structure, tables, flowcharts, and wireframe descriptions.  
-
----
-
-## 📄 Access the Report
-The full PDF is included in this repository:  
-
-👉 **[Ajay_Tomar_Zluri_App_Catalog_Case_Study.pdf](./Ajay_Tomar_Zluri_App_Catalog_Case_Study.pdf)**  
 
 ---
 
